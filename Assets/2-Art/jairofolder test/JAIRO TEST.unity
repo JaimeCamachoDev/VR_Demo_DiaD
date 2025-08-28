@@ -6155,7 +6155,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ad4934225971694f836110b02b4a059, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.9998347
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ad4934225971694f836110b02b4a059, type: 3}
       propertyPath: m_LocalRotation.x
@@ -6163,7 +6163,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ad4934225971694f836110b02b4a059, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.018183094
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ad4934225971694f836110b02b4a059, type: 3}
       propertyPath: m_LocalRotation.z
@@ -6175,7 +6175,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ad4934225971694f836110b02b4a059, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -2.084
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ad4934225971694f836110b02b4a059, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -6185,6 +6185,10 @@ PrefabInstance:
       propertyPath: m_ScaleInLightmap
       value: 2.5
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9ad4934225971694f836110b02b4a059, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 214465ef03822c74abf6e29882a9fc70, type: 2}
     - target: {fileID: 919132149155446097, guid: 9ad4934225971694f836110b02b4a059, type: 3}
       propertyPath: m_Name
       value: details
@@ -22701,7 +22705,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: c8ba8002155e5f342bcb6325d9d818d3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23545,7 +23549,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5453849531114756619
 Transform:
@@ -23854,7 +23858,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 8290782892783832528, guid: f7ab546709503a94a99704161e02d575, type: 3}
+  - {fileID: 2100000, guid: f9f4c55fd87d778458e16494a2bb18b1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -24564,14 +24568,14 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7af47d7157c92744e9a4a4064f5fc1ab, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 20
+  m_ScaleInLightmap: 2
   m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
