@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Player 15 - TargetAPI 32
+  m_EditorClassIdentifier: 
+  data:
+    name: Set Target API at least to lvl 32
+    description: "<b>\u2022 What It Does:</b> Specifies the Android API level that
+      the app is built to run against. Higher API levels provide access to newer
+      system features but may also introduce compatibility requirements.\n\n<b>\u2022
+      Our Modification: </b>We target API level 32 to ensure compatibility with current
+      Quest OS versions and meet Meta\u2019s minimum submission criteria."
+    state: 1
+    level: 2
+    tags: 2
+    functionName: TargetAPILevel32
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 0

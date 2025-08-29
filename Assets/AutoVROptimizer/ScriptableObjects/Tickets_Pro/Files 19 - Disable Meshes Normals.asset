@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Files 19 - Disable Meshes Normals
+  m_EditorClassIdentifier: 
+  data:
+    name: Disable Meshes Normals
+    description: "<b>\u2022 What It Does:</b> Controls whether normals are included
+      in the mesh\u2019s vertex data. Normals are mainly used for lighting calculations
+      like diffuse and specular shading.\n\n<b>\u2022 Our Modification:</b> We disable
+      normals for meshes that don\u2019t require dynamic lighting, reducing vertex
+      data size and improving GPU efficiency on mobile VR."
+    state: 1
+    level: 0
+    tags: 18464
+    functionName: MeshesNormals
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - Import
+    - Calculate
+    - Calculate
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Import
+    - Calculate
+    lastObjects:
+    - Assets/2-Art/1-3D/RickYMorty/Models/model.fbx
+    - Assets/2-Art/1-3D/RickYMorty/Models/Rick and Morty Garage.fbx
+    - Assets/2-Art/2-VFX/FakeLight/MESH/FakeLight_Cone.FBX
+    - Assets/2-Art/2-VFX/FakeLight/MESH/FakeLight_Cube.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_1.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_2.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_3.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_4.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_5.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_6.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_7.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_8.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_9.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_10.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_11.fbx
+    - Assets/2-Art/FBX_Mara/Plano.fbx
+    - Assets/2-Art/jairofolder test/details.fbx
+    - Assets/2-Art/jairofolder test/Habitacion.fbx
+  IsBigTicket: 0

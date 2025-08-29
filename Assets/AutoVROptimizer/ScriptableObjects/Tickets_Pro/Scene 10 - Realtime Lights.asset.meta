@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bed875870046f7245b8684487583e7ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Scene 10 - Realtime
+    Lights.asset
+  uploadId: 767778

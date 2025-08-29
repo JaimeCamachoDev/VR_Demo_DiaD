@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f162d93387318564f868aad659e152da
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/PatchNotes.txt
+  uploadId: 767778

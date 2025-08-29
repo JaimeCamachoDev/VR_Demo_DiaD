@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7b26de758668b346b001764322782a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/AVRO_CustomTickets.asset
+  uploadId: 767778

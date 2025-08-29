@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 739a27a4f1fe49843b1dad36f87ea06e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Renderer 08 -
+    Render Scale.asset
+  uploadId: 767778

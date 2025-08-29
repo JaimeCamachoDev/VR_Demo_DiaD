@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Files 05 - Audios Compression Format
+  m_EditorClassIdentifier: 
+  data:
+    name: Set Audios Compression Format to Vorbis
+    description: "<b>\u2022 What It Does:</b> Selects an audio compression format
+      that reduces file size while maintaining quality. \n\n<b>\u2022 Our Modification:
+      </b>Choosing Vorbis ensures efficient compression for smaller file sizes without
+      a significant loss in audio quality."
+    state: 1
+    level: 1
+    tags: 17440
+    functionName: AudiosCompressionFormat
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - PCM
+    - PCM
+    - PCM
+    lastObjects:
+    - Assets/ValemStudio/Audios/A_ExempleAudio 1.wav
+    - Assets/ValemStudio/Audios/A_ExempleAudio 2.wav
+    - Assets/ValemStudio/Audios/A_ExempleAudio.wav
+  IsBigTicket: 0

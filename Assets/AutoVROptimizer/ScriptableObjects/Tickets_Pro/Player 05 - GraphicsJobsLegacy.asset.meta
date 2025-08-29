@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68287cc91b130c341b849cd2fca70c0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Player 05 - GraphicsJobsLegacy.asset
+  uploadId: 767778

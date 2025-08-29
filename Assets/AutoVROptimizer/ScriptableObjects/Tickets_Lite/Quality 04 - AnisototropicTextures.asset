@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Quality 04 - AnisototropicTextures
+  m_EditorClassIdentifier: 
+  data:
+    name: Set Anisototropic Textures To Per Texture
+    description: "<b>\u2022 What It Does:</b> Applies anisotropic filtering to improve
+      texture clarity at steep angles, but with a performance cost if overused. \n\n<b>\u2022
+      Our Modification: </b>Using the Per Textures option lets you fine-tune this
+      effect, balancing detail and performance based on each texture\u2019s needs."
+    state: 1
+    level: 1
+    tags: 8
+    functionName: AnisotropicTexturesPerTexture
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 0

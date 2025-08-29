@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Player 17 - TextureCompression_ASTC
+  m_EditorClassIdentifier: 
+  data:
+    name: Set Texture Compression Format To ASTC
+    description: "<b>\u2022 What It Does:</b> Enables ASTC (Adaptive Scalable Texture
+      Compression) support, which allows textures to be stored with high quality
+      and low memory usage, especially on supported mobile GPUs.\n\n<b>\u2022 Our
+      Modification: </b>We use ASTC as our default texture compression format due
+      to its efficiency on Quest devices. This helps reduce texture memory without
+      noticeably degrading visual quality."
+    state: 1
+    level: 1
+    tags: 2
+    functionName: TextureCompressionASTC
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - Generic
+    lastObjects: []
+  IsBigTicket: 0

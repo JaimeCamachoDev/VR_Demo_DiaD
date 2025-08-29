@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 16.3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
       propertyPath: m_LocalPosition.y
@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.0000023254395
+      value: -7.57
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
       propertyPath: m_LocalRotation.w
@@ -167,12 +167,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2072030233752081969, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
       propertyPath: m_Name
       value: Casa_TrimSheet_6
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7561615490757520620, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4736396111684269492, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96f838659b760e942bfb4b4b965ff568, type: 3}
@@ -186,7 +199,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 522622801efd10947a28f221b3d7427f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -1.99
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 522622801efd10947a28f221b3d7427f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -194,7 +207,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 522622801efd10947a28f221b3d7427f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -9.47
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 522622801efd10947a28f221b3d7427f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -228,8 +241,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Casa_TrimSheet_4
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 522622801efd10947a28f221b3d7427f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5356159878270523753, guid: 522622801efd10947a28f221b3d7427f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6693891330682447910, guid: 522622801efd10947a28f221b3d7427f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -8123726446468700308, guid: 522622801efd10947a28f221b3d7427f, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 522622801efd10947a28f221b3d7427f, type: 3}
@@ -243,7 +269,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 743249815046d874494c00af310c69ad, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 11.55
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 743249815046d874494c00af310c69ad, type: 3}
       propertyPath: m_LocalPosition.y
@@ -281,9 +307,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 743249815046d874494c00af310c69ad, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
     - target: {fileID: 919132149155446097, guid: 743249815046d874494c00af310c69ad, type: 3}
       propertyPath: m_Name
       value: Casa_TrimSheet_11
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 743249815046d874494c00af310c69ad, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -300,7 +334,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -22.28
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
       propertyPath: m_LocalPosition.y
@@ -308,7 +342,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -9.59
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
       propertyPath: m_LocalRotation.w
@@ -338,12 +372,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3830322580501715696, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
       propertyPath: m_Name
       value: Casa_TrimSheet_3
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3749599438730381113, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -2813155179764588291, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+    - {fileID: -4688082357155570693, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+    - {fileID: 7360873080879749673, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+    - {fileID: -3553375959658972028, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+    - {fileID: -4504233195863986052, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+    - {fileID: 1809330374903175807, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
+    - {fileID: 1721880334290703213, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 534da7e539791154fb5f92ae443fb4fe, type: 3}
@@ -355,9 +408,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8770819232366768784, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
     - target: {fileID: -8679921383154817045, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 8.14
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -365,7 +422,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -8.86
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
       propertyPath: m_LocalRotation.w
@@ -399,8 +456,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: Casa_TrimSheet_8
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5190980203801498820, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -4198452278886466610, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+    - {fileID: -1406780843678035669, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+    - {fileID: -7305589613466506408, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+    - {fileID: 4075457338309752219, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+    - {fileID: 4206555372837590976, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+    - {fileID: -6014333379066322789, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+    - {fileID: -6142576425551383823, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+    - {fileID: 11320025411681955, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
+    - {fileID: 5629584134459950910, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b639b0a73847b3f4c892fc2b68d942e4, type: 3}
@@ -414,7 +488,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -25.56
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -456,8 +530,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: Casa_TrimSheet_7
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376779019083875183, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
+    - target: {fileID: 5195839799707312391, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -9090080574563773247, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: 6553789732789544133, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: 2098264283221464643, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: 2482015934782583272, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: -432461232979089915, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: -735028325829771240, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: 1117279142063273976, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: -4126458673371607653, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: 9201086734171655539, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: -6869312345386190279, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
+    - {fileID: 6361845868309578970, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f0e3da0808a67ca41aaefcefa833fd0d, type: 3}
@@ -471,7 +568,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: b893cc42cac26f94c8fcae84625b250b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -13.13
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b893cc42cac26f94c8fcae84625b250b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -509,12 +606,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5972616025327427553, guid: b893cc42cac26f94c8fcae84625b250b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
     - target: {fileID: 919132149155446097, guid: b893cc42cac26f94c8fcae84625b250b, type: 3}
       propertyPath: m_Name
       value: Casa_TrimSheet_1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b893cc42cac26f94c8fcae84625b250b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8058512564347650482, guid: b893cc42cac26f94c8fcae84625b250b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -6019679308074869713, guid: b893cc42cac26f94c8fcae84625b250b, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b893cc42cac26f94c8fcae84625b250b, type: 3}
@@ -528,7 +638,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 716e17f8149c67847b85c13577133863, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.00000009689331
+      value: -5.03
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 716e17f8149c67847b85c13577133863, type: 3}
       propertyPath: m_LocalPosition.y
@@ -566,12 +676,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6113645501232249541, guid: 716e17f8149c67847b85c13577133863, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -707660029061548918, guid: 716e17f8149c67847b85c13577133863, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
     - target: {fileID: 919132149155446097, guid: 716e17f8149c67847b85c13577133863, type: 3}
       propertyPath: m_Name
       value: Casa_TrimSheet_2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 716e17f8149c67847b85c13577133863, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -2574457765316734161, guid: 716e17f8149c67847b85c13577133863, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 716e17f8149c67847b85c13577133863, type: 3}
@@ -585,6 +708,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1863111880}
   - component: {fileID: 1863111879}
+  - component: {fileID: 1863111881}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -665,13 +789,36 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1863111878}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalRotation: {x: 0.97366065, y: -0, z: -0, w: 0.2280021}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 153.641, y: 0, z: 0}
+--- !u!114 &1863111881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1863111878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1874506567
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -682,7 +829,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 1.48
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -690,7 +837,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1.78
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -720,12 +867,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4703058669968183381, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
+    - target: {fileID: -4543546759970517668, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: -4107410374685903077, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 127
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
       propertyPath: m_Name
       value: Casa_TrimSheet_10
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 2502983264185611492, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: 8416261087097977136, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: -6376144610444293614, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: 3771877271317652737, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: -3638505428692377912, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: 8568211664819525935, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: -263869404211425461, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: -6294476704046232004, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: -7791581154236513184, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
+    - {fileID: 1224053643433568582, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9e01bbddeae79d4e8177b883037778f, type: 3}
@@ -739,7 +912,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -31.03
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
       propertyPath: m_LocalPosition.y
@@ -747,7 +920,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -9.16
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
       propertyPath: m_LocalRotation.w
@@ -781,8 +954,28 @@ PrefabInstance:
       propertyPath: m_Name
       value: Casa_TrimSheet_5
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3771258909492043374, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8325673879032951107, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5484326985642371189, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+    - {fileID: 5511898253453659367, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+    - {fileID: 301974074824289193, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+    - {fileID: -9194110383731199036, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+    - {fileID: -4953048197393936752, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+    - {fileID: 2293157260799971258, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+    - {fileID: 9058241935684537331, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
+    - {fileID: -2912265039831430013, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac2e1f56b4d3c424e963da9f640d6810, type: 3}
@@ -872,13 +1065,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1933703646}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0.00000052023796, y: -0.9843318, z: 0.17632617, w: 0.0000029042014}
+  m_LocalPosition: {x: -8, y: 24, z: 47.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 20.312, y: -180, z: 0}
 --- !u!114 &1933703650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -933,7 +1126,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -11.86
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -941,7 +1134,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -8.26
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
       propertyPath: m_LocalRotation.w
@@ -975,8 +1168,24 @@ PrefabInstance:
       propertyPath: m_Name
       value: Casa_TrimSheet_9
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3714596498741367860, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52a8e78d3873f204685b8b1de5e24b14, type: 2}
+    - target: {fileID: 6455564959927625742, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5339012800444382432, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
+    - {fileID: -3147400178498642541, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
+    - {fileID: 8984210937231044395, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
+    - {fileID: 7881570768229005998, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f7dc126c668f5a428401cbf79c70ee6, type: 3}

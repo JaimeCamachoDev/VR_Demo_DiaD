@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 360fb67c8a641414d83725699e8f4f0a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Player 15 - TargetAPI
+    32.asset
+  uploadId: 767778

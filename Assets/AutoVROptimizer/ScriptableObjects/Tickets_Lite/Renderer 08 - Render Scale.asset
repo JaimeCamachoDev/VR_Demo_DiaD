@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Renderer 08 - Render Scale
+  m_EditorClassIdentifier: 
+  data:
+    name: Keep Render Scale Between 0.85 and 1.2
+    description: "<b>\u2022 What It Does:</b> Determines the resolution multiplier
+      at which the scene is rendered relative to the device\u2019s native resolution.
+      \n\n<b>\u2022 Our Modification: </b>We recommend keeping the Render Scale between
+      0.85 and 1.2. A value of 1.0 is already below the headset\u2019s full resolution,
+      but increasing it slightly (up to 1.2) can enhance visual clarity if the project
+      is well optimized. Conversely, Meta VRCs recommend not going below 0.85, as
+      lower values may degrade the visual experience. Always test per scene to maintain
+      performance and clarity."
+    state: 1
+    level: 1
+    tags: 16
+    functionName: RenderScaleOne
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 0

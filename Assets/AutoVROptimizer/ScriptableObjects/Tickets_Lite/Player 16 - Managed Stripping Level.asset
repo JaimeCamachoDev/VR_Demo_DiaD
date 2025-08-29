@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Player 16 - Managed Stripping Level
+  m_EditorClassIdentifier: 
+  data:
+    name: Set Managed Stripping Level at least to Medium
+    description: "<b>\u2022 What It Does:</b> Determines how aggressively unused
+      code is removed during the build process.\n\n<b>\u2022 Our Modification:</b>
+      We set this to Medium or High to reduce build size and improve loading times.
+      However, this setting should be tested carefully, as it may cause issues with
+      techniques like Dependency Injection, particularly with frameworks such as
+      VContainer that rely on reflection."
+    state: 0
+    level: 1
+    tags: 16386
+    functionName: StrippingLevel
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - Minimal
+    lastObjects: []
+  IsBigTicket: 0

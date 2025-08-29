@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Player 20 - Use Vulkan Graphics API
+  m_EditorClassIdentifier: 
+  data:
+    name: Use Vulkan Graphics API
+    description: "<b>\u2022 What It Does:</b> Enables Vulkan as the primary graphics
+      API instead of OpenGLES. Vulkan provides lower-level access to the GPU, allowing
+      better multithreaded performance and reduced driver overhead.\n\n<b>\u2022
+      Our Modification:</b> We enable Vulkan to benefit from its improved performance
+      on Quest, especially when used with features like multiview and late latching.
+      It offers more rendering control, but should be tested thoroughly for stability
+      across devices."
+    state: 1
+    level: 1
+    tags: 16386
+    functionName: VulkanGraphicsAPI
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 0

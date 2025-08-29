@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eb92eba965fb57d4bb95432c3cd2fafa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Meta 09 - Fixed
+    Foveated Rendering.asset
+  uploadId: 767778

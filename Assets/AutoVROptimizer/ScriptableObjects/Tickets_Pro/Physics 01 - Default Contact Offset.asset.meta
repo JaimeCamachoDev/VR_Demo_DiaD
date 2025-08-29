@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05c734ac6d5461240990d8fbd8fff3fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Physics 01 - Default
+    Contact Offset.asset
+  uploadId: 767778

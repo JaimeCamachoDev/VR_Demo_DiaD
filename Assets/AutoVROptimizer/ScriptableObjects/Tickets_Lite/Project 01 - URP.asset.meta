@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cffafcef715bfad4781d959e45b13f49
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Project 01 - URP.asset
+  uploadId: 767778

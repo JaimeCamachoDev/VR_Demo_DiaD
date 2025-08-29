@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Renderer 10 - Lod Cross Fade
+  m_EditorClassIdentifier: 
+  data:
+    name: Remove Lod Cross Fade
+    description: "<b>\u2022 What It Does:</b> Smooths the transition between levels
+      of detail (LOD) for 3D models by blending between meshes rather than swapping
+      instantly.\n\n<b>\u2022 Our Modification: </b>This option should be disabled
+      unless necessary for visual polish, as it introduces slight overhead. Use it
+      only if LOD popping is visually disruptive and justifies the cost."
+    state: 2
+    level: 1
+    tags: 16400
+    functionName: LODCrossFadeDisabled
+    noFix: 1
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 0

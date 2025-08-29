@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Quality 02 - Disable VSync
+  m_EditorClassIdentifier: 
+  data:
+    name: Disable VSync
+    description: "<b>\u2022 What It Does:</b> Vsync synchronizes the frame rate with
+      the display\u2019s refresh rate to avoid tearing but can add input lag. \n\n<b>\u2022
+      Our Modification: </b>Setting it to Don\u2019t Sync removes the frame lock,
+      reducing latency and allowing the engine to push higher frame rates essential
+      for VR."
+    state: 1
+    level: 1
+    tags: 8
+    functionName: VSyncDisabled
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - 1
+    lastObjects: []
+  IsBigTicket: 0

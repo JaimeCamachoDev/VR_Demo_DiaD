@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Physics 02 - Sleep Treshold
+  m_EditorClassIdentifier: 
+  data:
+    name: Set Sleep Treshold >= 0.005f
+    description: "<b>\u2022 What It Does:</b> Determines the threshold for when a
+      rigidbody will go to sleep (stop simulating physics).\n\n<b>\u2022 Our Modification:
+      </b>Setting sleepThreshold >= 0.005f reduces unnecessary physics calculations
+      when objects are at rest, improving performance."
+    state: 1
+    level: 2
+    tags: 8192
+    functionName: SleepTreshold
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 0

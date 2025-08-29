@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d1183d0dc1cca894aa8e34de72291980
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Scene 18 - Bake
+    Occlusion Culling.asset
+  uploadId: 767778

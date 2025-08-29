@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0dbea4b6761f98946be764fa682e6d1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Meta 00 - Add
+    Oculus Package.asset
+  uploadId: 767778

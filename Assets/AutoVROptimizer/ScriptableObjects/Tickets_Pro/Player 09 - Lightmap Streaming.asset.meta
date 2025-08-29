@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d5a42ee272adf094eae4b03414dca1f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Player 09 - Lightmap
+    Streaming.asset
+  uploadId: 767778

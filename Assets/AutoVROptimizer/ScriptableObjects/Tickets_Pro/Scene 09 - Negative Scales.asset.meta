@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 13145fd794917b04a9d18740a38150bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Scene 09 - Negative
+    Scales.asset
+  uploadId: 767778

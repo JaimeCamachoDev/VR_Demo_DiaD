@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2fc8b633c51ecca45bfc3d31014f833a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Project 03 - Switch
+    To Android.asset
+  uploadId: 767778

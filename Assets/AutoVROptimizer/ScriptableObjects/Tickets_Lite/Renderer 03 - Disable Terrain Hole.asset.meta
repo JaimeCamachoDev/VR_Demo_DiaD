@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d9108f9b5f01999459e601fb328723ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Renderer 03 -
+    Disable Terrain Hole.asset
+  uploadId: 767778

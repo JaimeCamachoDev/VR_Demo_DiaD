@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Files 04 - Audios Load Type
+  m_EditorClassIdentifier: 
+  data:
+    name: Use the right Audios Load Types
+    description: "\u2022 <b>Decompress on Load:</b> Best for very small SFX (under
+      <b>300 KB</b>). Fully uncompressed into RAM on load, allowing instant playback
+      with zero runtime CPU overhead. Avoid for larger files due to memory cost.\r\n\r\n\u2022
+      <b>Compressed in Memory:</b> Ideal for mid-sized audio (between <b>300 KB and
+      2 MB</b>, e.g. voice clips). Keeps data compressed in RAM and decompresses
+      on the fly. Saves memory, slight CPU cost during playback.\r\n\r\n\u2022 <b>Streaming:</b>
+      Use for large files (<b>2MB+</b>, like background music). Data is streamed
+      directly from disk, minimizing RAM usage. May introduce slight playback delay."
+    state: 1
+    level: 1
+    tags: 17440
+    functionName: AudiosLoadType
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - DecompressOnLoad
+    - DecompressOnLoad
+    lastObjects:
+    - Assets/2-Art/3-SFX/Rick and Morty - Evil Morty Theme Song (Feewet Trap Remix)_mb-XCaA2HZs.mp3
+    - Assets/ValemStudio/Audios/A_ExempleAudio.wav
+  IsBigTicket: 0

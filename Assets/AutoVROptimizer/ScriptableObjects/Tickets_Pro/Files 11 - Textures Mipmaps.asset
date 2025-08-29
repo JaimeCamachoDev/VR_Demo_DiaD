@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Files 11 - Textures Mipmaps
+  m_EditorClassIdentifier: 
+  data:
+    name: Enable Textures Mipmaps
+    description: "<b>\u2022 What It Does:</b> Generates lower-resolution versions
+      of large textures for distant rendering, reducing aliasing and memory usage.
+      \n\n<b>\u2022 Our Modification: </b>Enabling mip mapping for textures 1024
+      or larger ensures efficient texture display at various distances while saving
+      memory.\n\nBe careful that some textures should avoid having mipmaps to stay
+      precise. For this reason, we ignore Lightmaps, Sprites (2D and UI) and GUI
+      from the search."
+    state: 1
+    level: 0
+    tags: 16672
+    functionName: TexturesMipmaps
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - False
+    - False
+    lastObjects:
+    - Assets/2-Art/FBX_Mara/Houses_TrimSheet_MainText.png
+    - Assets/ValemStudio/Textures/T_ExempleTexture.jpg
+  IsBigTicket: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b65b13ded50a1da4fbcddaf9dd5fd0f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Meta 04 - Enable
+    Symmetric Projection.asset
+  uploadId: 767778

@@ -140,7 +140,7 @@ Material:
     - _CastShadows: 0
     - _ColorMode: 0
     - _Contrast: 0.2
-    - _Cull: 0
+    - _Cull: 2
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _Distance: 3

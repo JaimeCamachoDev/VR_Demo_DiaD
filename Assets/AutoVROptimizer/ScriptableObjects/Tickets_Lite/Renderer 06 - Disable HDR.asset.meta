@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1c4dfae08f3b471419e4a0a053f658f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Renderer 06 -
+    Disable HDR.asset
+  uploadId: 767778

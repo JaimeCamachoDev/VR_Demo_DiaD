@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Files 16 - Meshes Compression
+  m_EditorClassIdentifier: 
+  data:
+    name: Use Meshes Compression
+    description: "<b>\u2022 What It Does:</b> Optimizes vertex data for meshes, reducing
+      file size and memory usage.\n\n<b>\u2022 Our Modification:</b> Enabling mesh
+      compression minimizes memory consumption and enhances performance by reducing
+      data load. Be careful, however, as it can reduce the precision of vertex data
+      and lower the visual quality of blendshapes."
+    state: 1
+    level: 1
+    tags: 18464
+    functionName: MeshesCompression
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    - Off
+    lastObjects:
+    - Assets/2-Art/1-3D/RickYMorty/Models/model.fbx
+    - Assets/2-Art/1-3D/RickYMorty/Models/Rick and Morty Garage.fbx
+    - Assets/2-Art/2-VFX/FakeLight/MESH/FakeLight_Cone.FBX
+    - Assets/2-Art/2-VFX/FakeLight/MESH/FakeLight_Cube.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_2.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_3.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_4.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_5.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_6.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_7.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_8.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_9.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_10.fbx
+    - Assets/2-Art/FBX_Mara/Casa_TrimSheet_11.fbx
+    - Assets/2-Art/FBX_Mara/Plano.fbx
+    - Assets/2-Art/jairofolder test/details.fbx
+    - Assets/2-Art/jairofolder test/Habitacion.fbx
+  IsBigTicket: 0

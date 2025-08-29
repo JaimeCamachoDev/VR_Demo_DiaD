@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe9b5d2ff5da35340bdfcbaa404e0215
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Renderer 09 - Upscaling
+    Filter Fidelity FX.asset
+  uploadId: 767778

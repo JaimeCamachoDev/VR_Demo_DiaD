@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c4a6ec45edfc8749aca01f72569b89a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Player 11 - PrebakeCollisionMeshes.asset
+  uploadId: 767778

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Scene 10 - Realtime Lights
+  m_EditorClassIdentifier: 
+  data:
+    name: Avoid Using Realtime Lights
+    description: "<b>\u2022 What It Does:</b> Real-time lights are evaluated every
+      frame and consume GPU cycles, especially when casting shadows.\n\n<b>\u2022
+      Our Modification: </b>It is strongly recommended to set the number of real-time
+      lights to 0. Use only baked lights unless absolutely necessary for gameplay.
+      This significantly reduces performance cost on mobile hardware."
+    state: 0
+    level: 0
+    tags: 20544
+    functionName: RealtimeLights
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects:
+    - guid: GlobalObjectId_V1-2-74a6f9c44940d594896d7c8c217ca6a3-1863111878-0
+      toggle: 0
+      value: -1
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - Realtime
+    - Realtime
+    - 
+    lastObjects:
+    - GlobalObjectId_V1-2-cb004e92d5025f24eb03ac2fda9c5691-1591514989-0
+    - GlobalObjectId_V1-2-cb004e92d5025f24eb03ac2fda9c5691-1122859863-0
+    - 
+  IsBigTicket: 0

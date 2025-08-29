@@ -1,0 +1,19 @@
+Patch Notes :
+
+V1.0.1
+Bugfix : 
+- Fixed some 6.1 import bugs.
+- Fixed Analyze error if there is no main camera in the scene.
+- Fixed Analyze error if there is an empty mesh filter.
+- Fixed error happening on Sort By.
+- Fixed error happening on Filter by Tags when the window was too small.
+- Fixed BigTickets visuals.
+- Added Reflection for XRManagement to avoid errors if the package is not imported.
+
+Tickets : 
+- Added Meta 10 - OpenXR Foveated Rendering.
+- Changed Player 13 & 16 : Added "Conditional" tags and updated their descriptions.
+- Changed File 12 : Check texture file size & compare it to max size - Not just max size anymore.
+- Changed Renderer 08 - Switched from "Set Render Scale to 1" to "Keep Render Scale Between 0.85 and 1.2".
+- Added a check for Oculus or OpenXR package for tickets Meta 01,03,04,05,07,09.
+- Changed Renderers 04 & 05 : After some tests, we concluded that they are not yet optimized for VR. Therefore, we now recommend disabling them instead of enabling them.

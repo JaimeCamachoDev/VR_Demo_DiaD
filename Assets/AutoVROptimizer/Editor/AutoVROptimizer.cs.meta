@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: de3986d38f7313949aafe8f313c64b63
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/Editor/AutoVROptimizer.cs
+  uploadId: 767778

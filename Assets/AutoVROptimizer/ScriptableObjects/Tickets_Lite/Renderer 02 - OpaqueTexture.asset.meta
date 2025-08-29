@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 912a2397d09584e46b114ee2296d127c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Renderer 02 -
+    OpaqueTexture.asset
+  uploadId: 767778

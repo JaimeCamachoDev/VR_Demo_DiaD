@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f753ebee57204234dae95246f346d4d5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Renderer 11 - One
+    Main Light.asset
+  uploadId: 767778

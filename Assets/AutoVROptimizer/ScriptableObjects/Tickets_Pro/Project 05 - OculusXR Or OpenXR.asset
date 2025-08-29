@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Project 05 - OculusXR Or OpenXR
+  m_EditorClassIdentifier: 
+  data:
+    name: Use OculusXR Or OpenXR
+    description: "<b>\u2022 What It Does:</b> Determines whether the project uses
+      the Oculus XR plugin (Meta-specific) or the OpenXR runtime (cross-platform
+      standard).\n\n<b>\u2022 Our Modification: </b>We recommend using OpenXR unless
+      you rely on Oculus-specific features not yet exposed through OpenXR. This makes
+      the project more portable and aligns with Meta\u2019s long-term ecosystem strategy."
+    state: 0
+    level: 2
+    tags: 1
+    functionName: OculusXROrOpenXR
+    noFix: 1
+    noRestore: 0
+    hide: 1
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 0

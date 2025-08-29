@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Scene 07 - Triangles Count
+  m_EditorClassIdentifier: 
+  data:
+    name: Your Total Scene Triangle Count is Higher\nthan set in AVRO_Settings
+    description: "<b>\u2022 What It Does:</b> Tracks total triangle count to ensure
+      scene complexity stays within Quest limits.\n\n<b>\u2022 Our Modification:
+      </b>Keeping under 100k visible triangles at a time is a good baseline for performance.\n@TargetSceneTriangles\n\nNote
+      that for LOD Groups, only the LOD 0 is added to the count."
+    state: 1
+    level: 1
+    tags: 64
+    functionName: TrianglesCount
+    noFix: 1
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 73478
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 1

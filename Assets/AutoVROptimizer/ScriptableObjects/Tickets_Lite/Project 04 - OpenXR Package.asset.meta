@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: faf4ee932446b9247ae6711b8894d85a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Project 04 - OpenXR
+    Package.asset
+  uploadId: 767778

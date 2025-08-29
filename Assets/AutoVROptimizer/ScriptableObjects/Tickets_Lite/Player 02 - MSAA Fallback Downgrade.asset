@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Player 02 - MSAA Fallback Downgrade
+  m_EditorClassIdentifier: 
+  data:
+    name: 'Set MSAA Fallback to Downgrade '
+    description: "<b>\u2022 What It Does:</b> MSAA (Multi-Sample Anti-Aliasing) smooths
+      out jagged edges by sampling multiple times per pixel. The fallback \u201CDowngrade\u201D
+      allows Unity to reduce the MSAA level automatically if the performance impact
+      is too high. \n\n<b>\u2022 Our Modification: </b>Using Downgrade protects your
+      game from significant performance drops by dynamically lowering anti-aliasing
+      quality when needed."
+    state: 1
+    level: 1
+    tags: 2
+    functionName: MSAAFallbackDowngrade
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - 1
+    lastObjects: []
+  IsBigTicket: 0

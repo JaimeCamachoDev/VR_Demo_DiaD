@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1fee38624f062b46bb9015d93cfc603
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Renderer 15 -
+    Rendering Path Forward.asset
+  uploadId: 767778

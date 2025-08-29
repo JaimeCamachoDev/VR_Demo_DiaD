@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Renderer 15 - Rendering Path Forward
+  m_EditorClassIdentifier: 
+  data:
+    name: Set Rendering Path to Forward or Forward +
+    description: "\u2022 <b>What It Does:</b> Sets the rendering path for the URP
+      pipeline. URP supports two main forward rendering paths:\r\n\r\n<b>Forward:</b>
+      A simpler rendering path with lower overhead. It renders each object once per
+      light affecting it and supports a limited number of dynamic lights per object.\r\n\r\n<b>Forward+:</b>
+      Uses clustered lighting to support more dynamic lights efficiently. It introduces
+      a depth pre-pass and additional memory usage for light clustering data.\r\n\r\n\u2022
+      <b>Our Modification:</b> We recommend using Forward on Quest to minimize draw
+      calls, memory usage, and shader complexity. Forward+ can be useful in rare
+      cases where multiple dynamic lights are essential, but it comes at the cost
+      of performance and should be tested carefully on mobile VR hardware."
+    state: 1
+    level: 1
+    tags: 16
+    functionName: RenderingPathForwardPlus
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - Deferred
+    lastObjects: []
+  IsBigTicket: 0

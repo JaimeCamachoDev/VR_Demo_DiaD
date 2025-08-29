@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Project 04 - OpenXR Package
+  m_EditorClassIdentifier: 
+  data:
+    name: Download OpenXR Package
+    description: "<b>\u2022 What It Does:</b> Adds support for the OpenXR runtime,
+      a cross-platform XR API designed to standardize VR/AR development across devices.\n\n<b>\u2022
+      Our Modification: </b>We include the OpenXR package to ensure future compatibility
+      and take advantage of platform-agnostic features. It also integrates well with
+      Unity's XR Management system and Meta\u2019s newer recommendations."
+    state: 1
+    level: 2
+    tags: 1
+    functionName: OpenXRPackage
+    noFix: 1
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues: []
+    lastObjects: []
+  IsBigTicket: 0

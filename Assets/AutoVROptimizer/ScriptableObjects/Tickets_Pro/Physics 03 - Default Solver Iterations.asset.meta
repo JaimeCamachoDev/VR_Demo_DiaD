@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 95399cceb0ca7c44faea5625a87bdecd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Pro/Physics 03 - Default
+    Solver Iterations.asset
+  uploadId: 767778

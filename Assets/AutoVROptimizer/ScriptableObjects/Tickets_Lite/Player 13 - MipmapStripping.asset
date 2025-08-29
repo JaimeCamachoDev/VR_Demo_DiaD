@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Player 13 - MipmapStripping
+  m_EditorClassIdentifier: 
+  data:
+    name: Enable Mipmap Stripping
+    description: "<b>\u2022 What It Does:</b> Strips out unnecessary mip map levels
+      from textures to save memory without compromising visual quality at various
+      distances.\n\n<b>\u2022 Our Modification:</b> We enable this to reduce texture
+      memory usage, which is important on the Quest\u2019s limited RAM. However,
+      it increases CPU usage at runtime, so this option should be disabled if CPU
+      performance is a bottleneck."
+    state: 1
+    level: 1
+    tags: 16386
+    functionName: MipmapStripping
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - False
+    lastObjects: []
+  IsBigTicket: 0

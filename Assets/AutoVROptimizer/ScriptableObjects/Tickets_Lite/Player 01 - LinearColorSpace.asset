@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f851f310b170d46a2387d5cc9d7008, type: 3}
+  m_Name: Player 01 - LinearColorSpace
+  m_EditorClassIdentifier: 
+  data:
+    name: Set Color Space To Linear
+    description: "<b>\u2022 What It Does:</b> Determines how lighting and colors
+      are computed. In Linear mode, lighting is calculated physically correctly,
+      which leads to more natural and consistent shading. \n\n<b>\u2022 Our Modification:
+      </b>Setting it to Linear ensures realistic lighting interactions, which enhances
+      immersion and visual quality on Quest."
+    state: 1
+    level: 1
+    tags: 2
+    functionName: ColorSpaceLinear
+    noFix: 0
+    noRestore: 0
+    hide: 0
+    concernedObjects: []
+    ticketValue: 0
+    savedInFixAll: 0
+    lastValues:
+    - Gamma
+    lastObjects: []
+  IsBigTicket: 0

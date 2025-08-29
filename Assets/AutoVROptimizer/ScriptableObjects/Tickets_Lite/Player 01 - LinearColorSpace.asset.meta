@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5f4dd47098647e49acae5546defa2f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Player 01 - LinearColorSpace.asset
+  uploadId: 767778

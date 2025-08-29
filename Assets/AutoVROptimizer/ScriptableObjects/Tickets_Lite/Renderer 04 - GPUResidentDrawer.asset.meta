@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b85388b341c3aa3439f36373a90131fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Renderer 04 -
+    GPUResidentDrawer.asset
+  uploadId: 767778

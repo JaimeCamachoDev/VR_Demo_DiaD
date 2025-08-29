@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 89c42646cb8918141ba0eda022d5b937
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Player 03 - Disable
+    Auto Graphics API.asset
+  uploadId: 767778

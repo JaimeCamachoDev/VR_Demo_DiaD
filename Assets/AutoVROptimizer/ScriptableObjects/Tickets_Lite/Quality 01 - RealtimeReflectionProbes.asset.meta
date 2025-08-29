@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2983e793f6a6bc4e8516beb2497d427
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Quality 01 - RealtimeReflectionProbes.asset
+  uploadId: 767778

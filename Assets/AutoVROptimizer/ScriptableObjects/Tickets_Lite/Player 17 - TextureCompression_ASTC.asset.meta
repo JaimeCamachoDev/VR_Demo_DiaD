@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56a895918c2e00643b8be1182f17ff4d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/ScriptableObjects/Tickets_Lite/Player 17 - TextureCompression_ASTC.asset
+  uploadId: 767778

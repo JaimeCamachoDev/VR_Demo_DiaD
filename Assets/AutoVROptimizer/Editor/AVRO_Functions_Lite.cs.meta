@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 967ef4752c780d74fa824a4e60c661a1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318687
+  packageName: Auto VR Optimizer
+  packageVersion: 1.0.4
+  assetPath: Assets/AutoVROptimizer/Editor/AVRO_Functions_Lite.cs
+  uploadId: 767778
